@@ -18,8 +18,15 @@ class CreateEmpresasTable extends Migration
             $table->string('name');
             $table->string('email', 100)->unique();
             $table->string('password');
-            $table->string('empresaResponsavel');
-            $table->string('empresaTelefone');
+            $table->string('eResponsavel');
+            $table->string('eCNPJ', 14)->unique();
+            $table->string('eTelefone1');
+            $table->string('eTelefone2');
+            $table->string('eEndereco');
+            $table->string('ePontoRef');
+            $table->integer('eMarkers');
+            $table->string('eFormaPagamento');
+            $table->string('eFoto');
             $table->rememberToken();
             $table->timestamps();
         });

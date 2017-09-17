@@ -110,15 +110,9 @@ class empresaController extends Controller
             'name' => $data['name'],
             'email' => $data['email'],
             'password' => bcrypt($data['password']),
-            'eResponsavel' => $data['eResponsavel'],
-            'eCNPJ' => $data['eCNPJ'],
-            'eTelefone1' => $data['eTelefone1'],
-            'eTelefone2' => $data['eTelefone2'],
-            'eEndereco' => $data['eEndereco'],
-            'ePontoRef' => $data['ePontoRef'],
-            'eMarkers' => $data['eMarkers'],
-            'eFormaPagamento' => $data['eFormaPagamento'],
-            'eFoto' => $data['eFoto'],
+            'empresaResponsavel' => $data['empresaResponsavel'],
+            'empresaTelefone' => $data['empresaTelefone'],
+
         ]);
 
     //return view ('cliente.formulario'); 
@@ -164,16 +158,8 @@ class empresaController extends Controller
       'name' => $dataForm['name'],
       'email' => $dataForm['email'],
       'password' => bcrypt($dataForm['password']),
-      'eResponsavel' => $dataForm['eResponsavel'],
-      'eCNPJ' => $dataForm['eCNPJ'],
-      'eTelefone1' => $dataForm['eTelefone1'],
-      'eTelefone2' => $dataForm['eTelefone2'],
-      'eEndereco' => $dataForm['eEndereco'],
-      'ePontoRef' => $dataForm['ePontoRef'],
-      'eMarkers' => $dataForm['eMarkers'],
-      'eFormaPagamento' => $dataForm['eFormaPagamento'],
-      'eFoto' => $dataForm['eFoto'],
-
+      'empresaResponsavel' => $dataForm['empresaResponsavel'],
+      'empresaTelefone' => $dataForm['empresaTelefone'],
 
       ]);
 

@@ -16,8 +16,7 @@ class cliente extends Authenticatable
 
     use Notifiable;
     protected $fillable = [
-        'name', 'email', 'password', 'cTelefone', 'cCPF', 'cNascimento', 'cCadastro', 'cUsuario', 'cFoto' 
-    ];
+        'name', 'email', 'password', 'clienteTelefone', 'clienteNascimento'];
 
     /**
      * The attributes that should be hidden for arrays.

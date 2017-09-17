@@ -76,21 +76,21 @@
                         </div>
 
 
-                        <div class="form-group{{ $errors->has('cTelefone') ? ' has-error' : '' }}">
-                            <label for="cTelefone" class="col-md-4 control-label">Telefone</label>
+                        <div class="form-group{{ $errors->has('clienteTelefone') ? ' has-error' : '' }}">
+                            <label for="clienteTelefone" class="col-md-4 control-label">Telefone</label>
 
                             <div class="col-md-6">
-                                <input id="cTelefone" type="text" class="form-control" name="cTelefone" value="{{ $cliente->cTelefone or old('cTelefone') }}" required autofocus>
+                                <input id="clienteTelefone" type="text" class="form-control" name="clienteTelefone" value="{{ $cliente->clienteTelefone or old('clienteTelefone') }}" required autofocus>
 
-                                @if ($errors->has('cTelefone'))
+                                @if ($errors->has('clienteTelefone'))
                                     <span class="help-block">
-                                        <strong>{{ $errors->first('cTelefone') }}</strong>
+                                        <strong>{{ $errors->first('clienteTelefone') }}</strong>
                                     </span>
                                 @endif
                             </div>
                         </div>
 
-                        <div class="form-group{{ $errors->has('cCPF') ? ' has-error' : '' }}">
+                        <!--<div class="form-group{{ $errors->has('cCPF') ? ' has-error' : '' }}">
                             <label for="cCPF" class="col-md-4 control-label">CPF</label>
 
                             <div class="col-md-6">
@@ -102,25 +102,25 @@
                                     </span>
                                 @endif
                             </div>
-                        </div>
+                        </div>-->
 
 
-                        <div class="form-group{{ $errors->has('cNascimento') ? ' has-error' : '' }}">
-                            <label for="cNascimento" class="col-md-4 control-label">Data de Nascimento</label>
+                        <div class="form-group{{ $errors->has('clienteNascimento') ? ' has-error' : '' }}">
+                            <label for="clienteNascimento" class="col-md-4 control-label">Data de Nascimento</label>
 
                             <div class="col-md-6">
-                                <input id="cNascimento" type="date" class="form-control" name="cNascimento" value="{{ $cliente->cNascimento or old('cNascimento') }}" required autofocus>
+                                <input id="clienteNascimento" type="date" class="form-control" name="clienteNascimento" value="{{ $cliente->clienteNascimento or old('clienteNascimento') }}" required autofocus>
 
-                                @if ($errors->has('cNascimento'))
+                                @if ($errors->has('clienteNascimento'))
                                     <span class="help-block">
-                                        <strong>{{ $errors->first('cNascimento') }}</strong>
+                                        <strong>{{ $errors->first('clienteNascimento') }}</strong>
                                     </span>
                                 @endif
                             </div>
                         </div>
 
 
-                        <div class="form-group{{ $errors->has('cCadastro') ? ' has-error' : '' }}">
+                        <!--<div class="form-group{{ $errors->has('cCadastro') ? ' has-error' : '' }}">
                             <label for="cCadastro" class="col-md-4 control-label">Data do Cadastro</label>
 
                             <div class="col-md-6">
@@ -132,9 +132,9 @@
                                     </span>
                                 @endif
                             </div>
-                        </div>
+                        </div>-->
 
-                        <div class="form-group{{ $errors->has('cUsuario') ? ' has-error' : '' }}">
+                        <!--<div class="form-group{{ $errors->has('cUsuario') ? ' has-error' : '' }}">
                             <label for="cUsuario" class="col-md-4 control-label">Nome de Usuário</label>
 
                             <div class="col-md-6">
@@ -146,9 +146,9 @@
                                     </span>
                                 @endif
                             </div>
-                        </div>
+                        </div>-->
 
-                        <div class="form-group{{ $errors->has('cFoto') ? ' has-error' : '' }}">
+                        <!--<div class="form-group{{ $errors->has('cFoto') ? ' has-error' : '' }}">
                             <label for="cFoto" class="col-md-4 control-label">Foto</label>
 
                             <div class="col-md-6">
@@ -160,7 +160,7 @@
                                     </span>
                                 @endif
                             </div>
-                        </div>
+                        </div>-->
 
 
 

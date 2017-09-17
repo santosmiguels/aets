@@ -75,21 +75,21 @@
                             </div>
                         </div>
 
-                         <div class="form-group{{ $errors->has('eResponsavel') ? ' has-error' : '' }}">
-                            <label for="eResponsavel" class="col-md-4 control-label">Responsável pela Empesa</label>
+                         <div class="form-group{{ $errors->has('empresaResponsavel') ? ' has-error' : '' }}">
+                            <label for="empresaResponsavel" class="col-md-4 control-label">Responsável pela Empesa</label>
 
                             <div class="col-md-6">
-                                <input id="eResponsavel" type="text" class="form-control" name="eResponsavel" value="{{ $empresa->eResponsavel or old('eResponsavel') }}" required autofocus>
+                                <input id="empresaResponsavel" type="text" class="form-control" name="empresaResponsavel" value="{{ $empresa->empresaResponsavel or old('empresaResponsavel') }}" required autofocus>
 
-                                @if ($errors->has('eResponsavel'))
+                                @if ($errors->has('empresaResponsavel'))
                                     <span class="help-block">
-                                        <strong>{{ $errors->first('eResponsavel') }}</strong>
+                                        <strong>{{ $errors->first('empresaResponsavel') }}</strong>
                                     </span>
                                 @endif
                             </div>
                         </div>
 
-                        <div class="form-group{{ $errors->has('eCNPJ') ? ' has-error' : '' }}">
+                        <!--<div class="form-group{{ $errors->has('eCNPJ') ? ' has-error' : '' }}">
                             <label for="eCNPJ" class="col-md-4 control-label">CNPJ</label>
 
                             <div class="col-md-6">
@@ -101,25 +101,25 @@
                                     </span>
                                 @endif
                             </div>
-                        </div>
+                        </div>-->
 
 
-                        <div class="form-group{{ $errors->has('eTelefone1') ? ' has-error' : '' }}">
-                            <label for="eTelefone1" class="col-md-4 control-label">Telefone fixo</label>
+                        <div class="form-group{{ $errors->has('empresaTelefone') ? ' has-error' : '' }}">
+                            <label for="empresaTelefone" class="col-md-4 control-label">Telefone fixo</label>
 
                             <div class="col-md-6">
-                                <input id="eTelefone1" type="text" class="form-control" name="eTelefone1" value="{{ $empresa->eTelefone1 or old('eTelefone1') }}" required autofocus>
+                                <input id="empresaTelefone" type="text" class="form-control" name="empresaTelefone" value="{{ $empresa->empresaTelefone or old('empresaTelefone') }}" required autofocus>
 
-                                @if ($errors->has('eTelefone1'))
+                                @if ($errors->has('empresaTelefone'))
                                     <span class="help-block">
-                                        <strong>{{ $errors->first('eTelefone1') }}</strong>
+                                        <strong>{{ $errors->first('empresaTelefone') }}</strong>
                                     </span>
                                 @endif
                             </div>
                         </div>
 
 
-                        <div class="form-group{{ $errors->has('eTelefone2') ? ' has-error' : '' }}">
+                        <!--<div class="form-group{{ $errors->has('eTelefone2') ? ' has-error' : '' }}">
                             <label for="eTelefone2" class="col-md-4 control-label">Telefone Celular</label>
 
                             <div class="col-md-6">
@@ -131,11 +131,11 @@
                                     </span>
                                 @endif
                             </div>
-                        </div>
+                        </div>-->
 
                        
 
-                        <div class="form-group{{ $errors->has('eEndereco') ? ' has-error' : '' }}">
+                        <!--<div class="form-group{{ $errors->has('eEndereco') ? ' has-error' : '' }}">
                             <label for="eEndereco" class="col-md-4 control-label">Endereço</label>
 
                             <div class="col-md-6">
@@ -147,9 +147,9 @@
                                     </span>
                                 @endif
                             </div>
-                        </div>
+                        </div>-->
 
-                        <div class="form-group{{ $errors->has('ePontoRef') ? ' has-error' : '' }}">
+                        <!--<div class="form-group{{ $errors->has('ePontoRef') ? ' has-error' : '' }}">
                             <label for="ePontoRef" class="col-md-4 control-label">Ponto de Referência</label>
 
                             <div class="col-md-6">
@@ -161,9 +161,9 @@
                                     </span>
                                 @endif
                             </div>
-                        </div>
+                        </div>-->
 
-                        <div class="form-group{{ $errors->has('eMarkers') ? ' has-error' : '' }}">
+                        <!--<div class="form-group{{ $errors->has('eMarkers') ? ' has-error' : '' }}">
                             <label for="eMarkers" class="col-md-4 control-label">Markers</label>
 
                             <div class="col-md-6">
@@ -175,9 +175,9 @@
                                     </span>
                                 @endif
                             </div>
-                        </div>
+                        </div>-->
 
-                        <div class="form-group{{ $errors->has('eFormaPagamento') ? ' has-error' : '' }}">
+                        <!--<div class="form-group{{ $errors->has('eFormaPagamento') ? ' has-error' : '' }}">
                             <label for="eFormaPagamento" class="col-md-4 control-label">Forma de pagamento</label>
 
                             <div class="col-md-6">
@@ -189,11 +189,11 @@
                                     </span>
                                 @endif
                             </div>
-                        </div>
+                        </div>-->
 
 
 
-                        <div class="form-group{{ $errors->has('eFoto') ? ' has-error' : '' }}">
+                        <!--<div class="form-group{{ $errors->has('eFoto') ? ' has-error' : '' }}">
                             <label for="eFoto" class="col-md-4 control-label">Foto</label>
 
                             <div class="col-md-6">
@@ -205,7 +205,7 @@
                                     </span>
                                 @endif
                             </div>
-                        </div>
+                        </div>-->
 
 
 

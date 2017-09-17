@@ -18,12 +18,8 @@ class CreateClientesTable extends Migration
             $table->string('name');
             $table->string('email', 100)->unique();
             $table->string('password');
-            $table->string('cTelefone');
-            $table->string('cCPF', 11)->unique();
-            $table->string('cNascimento');
-            $table->string('cCadastro');
-            $table->string('cUsuario');
-            $table->string('cFoto');
+            $table->string('clienteTelefone');
+            $table->string('clienteNascimento');
             $table->rememberToken();
             $table->timestamps();
 

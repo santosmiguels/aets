@@ -179,7 +179,7 @@
                 <div class="col-md-6">
                     <h1>Sobre Nós</h1>
                     <!--<div class="fa fa-cutlery fa-2x"></div>-->
-                    <p class="desc-text">Somos um grupo estudantil da disciplina IAE - Introdução a Atividade Empresarial - ministrada na Universidade de Brasília.</p>
+                    <p class="desc-text">Este é um grupo estudantil da disciplina IAE - Introdução a Atividade Empresarial - ministrada na Universidade de Brasília.</p>
                     <p class="desc-text">Este projeto tem o intúito de elabora uma gestão de serviços sociais.</p>
                     <p class="desc-text">Os objetivos principais são xxxxxxxxxxxxxxx.
                     
@@ -307,7 +307,7 @@
             <div class="text-content container">
                 <div class="col-md-6">
                     <h1>Fique por dentro:</h1>
-                    <div class="icon-hotdog fa-2x"></div>
+                    <!--<div class="icon-hotdog fa-2x"></div>-->
                     <p class="desc-text">
 					<p style="text-align: center;"><a style="font-size: 12.16px;" target="_blank" href="http://www.ru.unb.br/images/Cardapio/Cardpio%20Julho%202017.xlsx%20-%2002%20SEMANA%20julho%20.pdf"><span style="font-family: arial, helvetica, sans-serif; font-size: 18pt; line-height: 1.3em;"><span style="font-size: 18pt;"><span style="color: #0000ff; font-family: arial, helvetica, sans-serif; font-size: 18pt; line-height: 1.3em;"><span style="color: #0000ff; font-size: 18pt;">Feira - 03/07/2017 a 09/07/2017</span></span></span></span></a></p>
 					<p style="text-align: center;"><a target="_blank" href="http://www.ru.unb.br/images/Cardapio/Cardpio%20Julho%202017.xlsx%20-%2003%20SEMANA%20julho%20.pdf"><span style="font-family: arial, helvetica, sans-serif; font-size: 18pt; line-height: 1.3em;"><span style="font-size: 18pt;"><span style="color: #0000ff; font-family: arial, helvetica, sans-serif; font-size: 18pt; line-height: 1.3em;"><span style="color: #0000ff; font-size: 18pt;">Evento - 10/07/2017 a 16/07/2017</span></span></span></span></a></p>

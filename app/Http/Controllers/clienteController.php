@@ -64,17 +64,9 @@ class clienteController extends Controller
             'name' => $data['name'],
             'email' => $data['email'],
             'password' => bcrypt($data['password']),
-            'cTelefone' => $data['cTelefone'],
-            'cCPF' => $data['cCPF'],
-            'cNascimento' => $data['cNascimento'],
-            'cCadastro' => $data['cCadastro'],
-            'cUsuario' => $data['cUsuario'],
-            'cFoto' => $data['cFoto'],
-    
-
-
-
-        ]);
+            'clienteTelefone' => $data['clienteTelefone'],
+            'clienteNascimento' => $data['clienteNascimento'],
+            ]);
 
       if($validator->fails())
       {
@@ -116,14 +108,8 @@ class clienteController extends Controller
       'name' => $dataForm['name'],
       'email' => $dataForm['email'],
       'password' => bcrypt($dataForm['password']),
-      'cTelefone' => $dataForm['cTelefone'],
-      'cCPF' => $dataForm['cCPF'],
-      'cNascimento' => $dataForm['cNascimento'],
-      'cCadastro' => $dataForm['cCadastro'],
-      'cUsuario' => $dataForm['cUsuario'],
-      'cFoto' => $dataForm['cFoto'],
-
-
+      'clienteTelefone' => $dataForm['clienteTelefone'],
+      'clienteNascimento' => $dataForm['clienteNascimento'],
       ]);
 
       if ($update)

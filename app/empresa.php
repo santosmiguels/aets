@@ -15,7 +15,7 @@ class empresa extends Authenticatable
      */
     use Notifiable;
     protected $fillable = [
-        'name', 'email', 'password', 'eResponsavel', 'eCNPJ', 'eTelefone1', 'eTelefone2', 'eEndereco', 'ePontoRef', 'eMarkers', 'eFormaPagamento', 'eFoto' ];
+        'name', 'email', 'password', 'empresaResponsavel', 'empresaTelefone',];
 
     /**
      * The attributes that should be hidden for arrays.
