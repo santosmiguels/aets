@@ -9,7 +9,7 @@
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
     <!--<title>{{ config('app.name', 'Laravel') }}</title>-->
-    <title>A&TS - Arquitetura & Tecnologia Social.</title>
+    <title>A&TS - Acompanhamento & Tecnologia da Saúde.</title>
 
     <!-- Styles -->
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">

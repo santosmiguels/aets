@@ -5,10 +5,10 @@
     <div class="row">
         <div class="col-md-8 col-md-offset-2">
             <div class="panel panel-default">
-                <div class="panel-heading"><p>Sistema UnBSnacks - Área do usuário</p>
+                <div class="panel-heading"><p>Sistema A&TS - Área da Empresa</p>
                 <ul>
-                <p><li><a href="{{ url('admin/alteracliente')}}">Alterar usuário</a>
-                    <a href="{{ url('/usuarios')}}">Remover usuário</a>
+                <p><li><a href="{{ url('admin/alteracliente')}}">Alterar dados da Empresa</a>
+                    <a href="{{ url('/usuarios')}}">Remover Empresa</a>
                     <a href="{{ url('/home')}}">Pag Inicial</a></p>
                  </ul>
                  <ul>
@@ -19,7 +19,7 @@
                  </div>   
 
                 <div class="panel-body">                    
-                    Avaliação dos serviços das Lanchonetes do Campus.<br>
+                    Avaliação dos serviços da Empresa.<br>
                                   
                                      
 

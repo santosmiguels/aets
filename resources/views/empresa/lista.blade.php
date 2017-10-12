@@ -5,7 +5,7 @@
     <div class="row">
         <div class="col-md-8 col-md-offset-2">
             <div class="panel panel-default">
-                <div class="panel-heading"><p>Sistema UnBSnacks - Área da Empresa</p>
+                <div class="panel-heading"><p>Sistema A&TS - Área da Empresa</p>
                 
                 <ul>
 
@@ -27,7 +27,7 @@
                  </div>   
 
                 <div class="panel-body">               
-                    Lanchonetes Cadastradas.<br>
+                    Empresas Cadastradas.<br>
                     <table class="table table-striped">
                     <th>Nome</th>
                     <th>Endereço</th>

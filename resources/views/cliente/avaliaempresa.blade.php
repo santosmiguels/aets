@@ -5,7 +5,7 @@
     <div class="row">
         <div class="col-md-8 col-md-offset-2">
             <div class="panel panel-default">
-                <div class="panel-heading"><p>Sistema UnBSnacks - Área do usuário</p>
+                <div class="panel-heading"><p>Sistema A&TS Área do usuário</p>
 
                 <ul>
                 <p><a href="{{ url('admin/')}}" class="btn btn-primary">Pag Inicial do usuário</a></p>
@@ -41,7 +41,7 @@
                         </div>
 
                         <div class="form-group{{ $errors->has('email') ? ' has-error' : '' }}">
-                            <label for="email" class="col-md-4 control-label">Avaliar o Estabelecimento</label>
+                            <label for="email" class="col-md-4 control-label">Avaliar a Empresa</label>
 
                             <div class="col-md-6">
                                 <input id="email" type="email" class="form-control" name="email" value="{{ old('email') }}" required>
@@ -55,7 +55,7 @@
                         </div>
 
                         <div class="form-group{{ $errors->has('email') ? ' has-error' : '' }}">
-                            <label for="email" class="col-md-4 control-label">Avaliar o produto</label>
+                            <label for="email" class="col-md-4 control-label">Avaliar o produto ou serviço</label>
 
                             <div class="col-md-6">
                                 <input id="email" type="email" class="form-control" name="email" value="{{ old('email') }}" required>

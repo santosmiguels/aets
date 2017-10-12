@@ -8,7 +8,7 @@
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
-    <title>A&TS - Arquitetura & Tecnologia Social.</title>
+    <title>A&TS - Acompanhamento & Tecnologia da Saúde.</title>
 
     <!-- Styles -->
 	<link href="{{ asset('css/main.css') }}" rel="stylesheet">

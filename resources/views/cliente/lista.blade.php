@@ -27,7 +27,7 @@
                  </div>   
 
                 <div class="panel-body">               
-                    Lanchonetes Cadastradas.<br>
+                    Empresas Cadastradas.<br>
                     <table class="table table-striped">
                     <th>Nome</th>
                     <th>Endereço</th>
@@ -42,7 +42,7 @@
                             <td>{{ $empresa->eEndereco }}</td>
                             <td>{{ $empresa->eTelefone1 }}</td>
                             <td><a href="{{ url('admin/avaliaempresa')}}" class="btn btn-primary">Avaliar</td>
-                            <td><button class="btn btn-sm">Cardápio</td></button></td>
+                            <td><button class="btn btn-sm">Editar</td></button></td>
                             <td><button class="btn btn-sm">Ver avaliações</td></button></td>
                         </tr>
                     @endforeach    

@@ -1,4 +1,3 @@
-teste
 @extends('layouts.app')
 
 @section('content')
@@ -7,7 +6,7 @@ teste
         <div class="col-md-8 col-md-offset-2">
             <div class="panel panel-default">
                 <div class="panel-heading">
-                    <p>Sistema UnBSnacks<p>
+                    <p>Sistema A&TS<p>
                     <p>Área da empresa</p>
                     <li>
                     <!--<a href="{{ url('/empresas')}}">Área das empresas</a>-->

@@ -6,7 +6,7 @@
         <div class="col-md-8 col-md-offset-2">
             <div class="panel panel-default">
                 <div class="panel-heading">
-                    <p>Sistema UnBSnacks - Área da empresa</p>
+                    <p>Sistema A&TS - Área da empresa</p>
                     <li>
                     <a href="{{ url('/empresas/formulario')}}">Cadastrar nova empresa</a>
                     <!--<a href="{{ url('/empresas/alterarempresas')}}">Alterar empresa</a>-->

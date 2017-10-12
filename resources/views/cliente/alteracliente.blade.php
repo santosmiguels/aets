@@ -6,7 +6,7 @@
         <div class="col-md-8 col-md-offset-2">
             <div class="panel panel-default">
                 <div class="panel-heading">
-                    <p>Sistema UnBSnacks - Alteração de dados do cliente</p>
+                    <p>Sistema A&TS - Alteração de dados do cliente</p>
                     <li>
                     <a href="{{ url('admin/alteracliente')}}">Alterar dados do Cliente</a>
                     <!--<a href="{{ url('/empresas/alterarempresas')}}">Alterar empresa</a>-->
@@ -20,8 +20,8 @@
                     <a href="{{ url('admin/')}}" class="btn btn-primary">Pag Inicial</a></p>
                  </ul>
                  <ul>
-                <a href="{{ url('admin/avaliaempresa')}}" class="btn btn-primary">Avaliar serviços das lanchonetes</a>
-                <a href="{{ url('admin/listacliente')}}" class="btn btn-primary">Lista de lanchonetes cadastradas</a>
+                <a href="{{ url('admin/avaliaempresa')}}" class="btn btn-primary">Avaliar serviços da Empresa</a>
+                <a href="{{ url('admin/listacliente')}}" class="btn btn-primary">Listar Empresas cadastradas</a>
                 </p>
                     <!--<a href="{{ url('/usuarios')}}">Remover a empresa</a>
                     <a href="{{ url('/home')}}">Pag Inicial</a></li>-->
