@@ -31,7 +31,7 @@
                             <span class="icon-bar"></span>
                         </button>
                         <a class="navbar-brand" href="#">A&TS</a>
-                        <img src="images/unbsnackslogo.png" width="53" height="45">
+                        <img src="images/stethoscope.png" width="53" height="45">
                     </div>
 
                     <!-- Collect the nav links, forms, and other content for toggling -->

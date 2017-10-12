@@ -42,7 +42,7 @@
                             <td>{{ $empresa->eEndereco }}</td>
                             <td>{{ $empresa->eTelefone1 }}</td>
                             <td><a href="{{ url('admin/avaliaempresa')}}" class="btn btn-primary">Avaliações</td>
-                            <td><button class="btn btn-sm">Cardápio</td></button></td>
+                            <td><button class="btn btn-sm">Editar</td></button></td>
                         </tr>
                     @endforeach    
                     </tbody>    
