@@ -3,7 +3,7 @@
 
     <head>
         <meta charset="UTF-8">
-        <title>A&TS - Arquitetura & Tecnologia Social.</title>
+        <title>A&TS - Acompanhamento & Tecnologia da Saúde.</title>
         <link rel="stylesheet" href="css/normalize.css">
         <link rel="stylesheet" href="css/main.css" media="screen" type="text/css">
         <link href='http://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
@@ -166,7 +166,7 @@
             <div class="follow_container">
                 <div class="col-md-6 col-md-offset-3">
                     <h2 class="top-title">A&TS</h2>
-                    <h4 class="white second-title">Encontre aqui soluções práticas para ...!</h4>
+                    <h4 class="white second-title">Encontre aqui soluções práticas para monitoramento e acompanhamento para a SAÚDE!</h4>
                     <hr>
                 </div>
             </div>
@@ -177,14 +177,11 @@
         <section id="story" class="description_content">
             <div class="text-content container">
                 <div class="col-md-6">
-                    <h1>Sobre Nós</h1>
+                    <h1>Sobre o Grupo</h1>
                     <!--<div class="fa fa-cutlery fa-2x"></div>-->
-                    <p class="desc-text">Este é um grupo estudantil da disciplina IAE - Introdução a Atividade Empresarial - ministrada na Universidade de Brasília.</p>
-                    <p class="desc-text">Este projeto tem o intúito de elabora uma gestão de serviços sociais.</p>
-                    <p class="desc-text">Os objetivos principais são xxxxxxxxxxxxxxx.
+                    <p class="desc-text">Este é um grupo estudantil da disciplina IAE - Introdução a Atividade Empresarial.</p>
+                    <p class="desc-text">Este projeto tem como objetivo elaborar uma gestão de serviços de monitoramento e acompanhamento para a SAÚDE.</p>
                     
-
-
                 </div>
                 <div class="col-md-6">
                     <div class="img-section">
@@ -265,9 +262,9 @@
                 </div>
                 <br>
                 <div class="col-md-6 col-md-offset-1">
-                    <h1>Sua avaliação é importate!</h1>
+                    <h1>Sua avaliação é importante!</h1>
                     <!--<div class="icon-beer fa-2x"></div>-->
-                    <p class="desc-text">Avalei como foram realizados os nossos serviços. Pois, nos ajudará a entender melhor como prosseguir e quem sabe até melhorar.</p>
+                    <p class="desc-text">Avalie como foi a sua percepção a respeitos dos nossos serviços. Pois, nos ajudará a entender melhor como prosseguir e quem sabe até melhorar os produtos e serviços.</p>
                 </div>
             </div>
         </section>
@@ -438,7 +435,7 @@
                 </div>
                 <div class="col-md-4">
                     <span class="social_heading">Contate-nos</span>
-                    <span class="social_info"><a class="color_animation">sendocriado@aets.com.br</a></span>
+                    <span class="social_info"><a class="color_animation">sendocriado@aets.com</a></span>
                 </div>
             </div>
         </section>
