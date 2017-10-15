@@ -33,6 +33,7 @@
                         {{ config('app.name', 'Laravel') }}
                     </a>-->
                     <a class="navbar-brand" href="{{ url('/admin') }}" >A&TS</a>
+                    <img src="images/stethoscope.png" width="53" height="45">
                 </div>
 
                 <div class="collapse navbar-collapse" id="app-navbar-collapse">

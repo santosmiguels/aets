@@ -39,7 +39,7 @@
                         <ul class="nav navbar-nav main-nav  clear navbar-right ">
                             <li><a class="navactive color_animation" href="#top">Home</a></li>
                             <li><a class="color_animation" href="#pricing">Histórico</a></li>
-                            <li><a class="color_animation" href="#beer">Avaliar</a></li>
+                            <!--<li><a class="color_animation" href="#beer">Avaliar</a></li>-->
                             <li><a class="color_animation" href="#bread">Novos Serviços</a></li>
                             <li><a class="color_animation" href="#featuredru">Dicas/Novidades </a></li>
                             <li><a class="color_animation" href="#reservation">Sugestões</a></li>
@@ -123,7 +123,7 @@
 								<p><strong>Cadastro</strong></p><br>
 								<p>Vínculo: 
 								<input id="opt1" type="radio" class="hidden" name="optradio" onclick="$('#opt1').addClass('hidden');$('#opt2').removeClass('hidden');" data-toggle="collapse" data-target="#user,#comp" checked="checked"> Usuário
-								<input id="opt2" type="radio" name="optradio" onclick="$('#opt2').addClass('hidden');$('#opt1').removeClass('hidden');" data-toggle="collapse" data-target="#comp,#user"> Lanchonete
+								<input id="opt2" type="radio" name="optradio" onclick="$('#opt2').addClass('hidden');$('#opt1').removeClass('hidden');" data-toggle="collapse" data-target="#comp,#user"> xxxxxxxx
 								</p><br>
 								<div id="user" class="collapse in">
 									<form name="Cadastro" action="./logIn.php" method="POST">
@@ -250,7 +250,7 @@
         <!-- ============ Our Beer  ============= -->
 
 
-        <section id ="beer" class="description_content">
+        <!--<section id ="beer" class="description_content">
             <div  class="beer background_content">
                 <h1 class="shadow">Aproveite Para <span>Avaliar</span>  Nossos Serviços.</h1>
             </div>
@@ -264,10 +264,10 @@
                 <div class="col-md-6 col-md-offset-1">
                     <h1>Sua avaliação é importante!</h1>
                     <!--<div class="icon-beer fa-2x"></div>-->
-                    <p class="desc-text">Avalie como foi a sua percepção a respeitos dos nossos serviços. Pois, nos ajudará a entender melhor como prosseguir e quem sabe até melhorar os produtos e serviços.</p>
+                    <!--<p class="desc-text">Avalie como foi a sua percepção a respeitos dos nossos serviços. Pois, nos ajudará a entender melhor como prosseguir e quem sabe até melhorar os produtos e serviços.</p>
                 </div>
             </div>
-        </section>
+        </section>-->
 
 
        <!-- ============ Our Bread  ============= -->

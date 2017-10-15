@@ -34,7 +34,8 @@
 
                     <!-- Branding Image -->
                     <a class="navbar-brand" href="{{ url('/admin') }}" >A&TS</a>
-			<img src="../images/unbsnackslogo.png" href="{{ url('/') }}" width="53" height="45">
+			<!--<img src="../images/unbsnackslogo.png" href="{{ url('/') }}" width="53" height="45">-->
+            <img src="images/stethoscope.png" width="53" height="45">
                         <!--{{ config('app.name', 'Laravel') }}href="{{ url('/') }}-->
                     
                 </div>
