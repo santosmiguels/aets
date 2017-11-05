@@ -179,7 +179,7 @@
                     <h1>Sobre o Grupo</h1>
                     <!--<div class="fa fa-cutlery fa-2x"></div>-->
                     <p class="desc-text">Este é um grupo estudantil da disciplina IAE - Introdução a Atividade Empresarial.</p>
-                    <p class="desc-text">Este projeto tem como objetivo elaborar uma gestão de serviços de monitoramento, acompanhamento e integração da informações da SAÚDE do paciente.</p>
+                    <p class="desc-text">Este projeto tem como objetivo elaborar uma gestão de serviços de monitoramento, acompanhamento e integração das informações sobre a SAÚDE do paciente.</p>
                     
                 </div>
                 <div class="col-md-6">
@@ -187,8 +187,8 @@
                        <img src="images/desenhocoracao.png" width="250" height="220">
                        <img src="images/frequenciacardiaca.png" width="250" height="220">
                        <div class="img-section-space"></div>
-                       <img src="images/desenhocasalcorrendo.png"  width="250" height="220">
-                       <img src="images/stethoscope1.png"  width="250" height="220">
+                       <img src="images/atomo.png"  width="250" height="220">
+                       <img src="images/cerebro2.png"  width="250" height="220">
                    </div>
                 </div>
             </div>
@@ -330,19 +330,19 @@
                                     </div>
                                 </div>
                                 <div class="item">
-                                    <img src="images/cerebro1.jpg" alt="...">
-                                    <div class="carousel-caption">
-
-                                    </div>
-                                </div>
-                                <div class="item">
                                     <img src="images/doutor1.jpg" alt="...">
                                     <div class="carousel-caption">
 
                                     </div>
                                 </div>
+                                <div class="item">
+                                    <img src="images/stethoscope2.jpg" alt="...">
+                                    <div class="carousel-caption">
+
+                                    </div>
                                 </div>
                             </div>
+                        </div>
                         </div>
                     </ul>
                 </div>
@@ -402,7 +402,7 @@
                                     <div class="col-lg-4 col-md-6 col-xs-12">
                                         <!-- Message -->
                                         <div class="right-text">
-                                            <h2>Benefícios da atividade física</h2><hr>
+                                            <h2>Benefícios da atividade física:</h2><hr>
                                             <p>1. Prevenção de doenças.</p>
                                             <p>2. Perda de peso.</p>
                                             <p>3. Melhora o sono.</p>
