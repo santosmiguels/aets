@@ -324,19 +324,19 @@
                             <!-- Wrapper for slides -->
                             <div class="carousel-inner">
                                 <div class="item active">
-                                    <img src="images/relogio1.jpg"  alt="...">
+                                    <img src="images/maosdadas.jpg"  alt="...">
                                     <div class="carousel-caption">
 
                                     </div>
                                 </div>
                                 <div class="item">
-                                    <img src="images/treino1.jpg" alt="...">
+                                    <img src="images/cerebro1.jpg" alt="...">
                                     <div class="carousel-caption">
 
                                     </div>
                                 </div>
                                 <div class="item">
-                                    <img src="images/relogio2.JPG" alt="...">
+                                    <img src="images/doutor1.JPG" alt="...">
                                     <div class="carousel-caption">
 
                                     </div>
