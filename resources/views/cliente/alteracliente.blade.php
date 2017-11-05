@@ -6,7 +6,7 @@
         <div class="col-md-8 col-md-offset-2">
             <div class="panel panel-default">
                 <div class="panel-heading">
-                    <p>Sistema A&TS - Alteração de dados do cliente</p>
+                    <p>Sistema Saúde Sempre - Alteração de dados do cliente</p>
                     <li>
                     <a href="{{ url('admin/alteracliente')}}">Alterar dados do Cliente</a>
                     <!--<a href="{{ url('/empresas/alterarempresas')}}">Alterar empresa</a>-->

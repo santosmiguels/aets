@@ -5,7 +5,7 @@
     <div class="row">
         <div class="col-md-8 col-md-offset-2">
             <div class="panel panel-default">
-                <div class="panel-heading"><p>Sistema A&TS - Área do usuário</p>
+                <div class="panel-heading"><p>Sistema Saúde Sempre - Área do usuário</p>
                 <ul>
                 <p><a href="admin/{{Auth::user()->id}}/alteracliente" class="btn btn-primary">Alterar usuário</a>
                     <a href="{{ url('admin/')}}" class="btn btn-primary">Remover usuário</a>

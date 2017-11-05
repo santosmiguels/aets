@@ -5,7 +5,7 @@
     <div class="row">
         <div class="col-md-8 col-md-offset-2">
             <div class="panel panel-default">
-                <div class="panel-heading"><p>Sistema A&TS - Área das Empresas</p>
+                <div class="panel-heading"><p>Sistema Saúde Sempre - Área das Empresas</p>
                 <ul>
                     <a href="adminemp/{{Auth::user()->id}}/alteraempresa" class="btn btn-primary">Alterar dados da empresa</a>
                     <a href="{{ url('adminemp/')}}" class="btn btn-primary">Remover a empresa</a>

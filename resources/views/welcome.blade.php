@@ -435,7 +435,7 @@
                 </div>
                 <div class="col-md-4">
                     <span class="social_heading">Contate-nos</span>
-                    <span class="social_info"><a class="color_animation">contato@saudesempres.com.br</a></span>
+                    <span class="social_info"><a class="color_animation">contato@saudesempre.com.br</a></span>
                 </div>
             </div>
         </section>
