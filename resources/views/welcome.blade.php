@@ -3,7 +3,7 @@
 
     <head>
         <meta charset="UTF-8">
-        <title>A&TS - Acompanhamento & Tecnologia da Saúde.</title>
+        <title>Saúde Sempre - Integração das Informações da Saúde.</title>
         <link rel="stylesheet" href="css/normalize.css">
         <link rel="stylesheet" href="css/main.css" media="screen" type="text/css">
         <link href='http://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
@@ -30,7 +30,7 @@
                             <span class="icon-bar"></span>
                             <span class="icon-bar"></span>
                         </button>
-                        <a class="navbar-brand" href="#">A&TS</a>
+                        <a class="navbar-brand" href="#">Saúde Sempre</a>
                         <img src="images/stethoscope.png" width="53" height="45">
                     </div>
 
@@ -38,10 +38,9 @@
                     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                         <ul class="nav navbar-nav main-nav  clear navbar-right ">
                             <li><a class="navactive color_animation" href="#top">Home</a></li>
-                            <li><a class="color_animation" href="#pricing">Histórico</a></li>
-                            <!--<li><a class="color_animation" href="#beer">Avaliar</a></li>-->
-                            <li><a class="color_animation" href="#bread">Novos Serviços</a></li>
-                            <li><a class="color_animation" href="#featuredru">Dicas/Novidades </a></li>
+                            <li><a class="color_animation" href="#bread">Nossos Serviços</a></li>
+                            <li><a class="color_animation" href="#pricing">Atendimento</a></li>
+                            <li><a class="color_animation" href="#featuredru">Notícias atuais</a></li>
                             <li><a class="color_animation" href="#reservation">Sugestões</a></li>
                             <li><a class="color_animation" href="#contact">Contato</a></li>
                             <li><a class="color_animation" href="#story">Sobre</a></li>
@@ -165,8 +164,8 @@
         <div id="top" class="starter_container bg">
             <div class="follow_container">
                 <div class="col-md-6 col-md-offset-3">
-                    <h2 class="top-title">A&TS</h2>
-                    <h4 class="white second-title">Encontre aqui soluções práticas para monitoramento e acompanhamento para a SAÚDE!</h4>
+                    <h2 class="top-title">Saúde Sempre</h2>
+                    <h4 class="white second-title">Serviço de integração das informações relacionadas à Saúde do Paciente.</h4>
                     <hr>
                 </div>
             </div>
@@ -180,16 +179,16 @@
                     <h1>Sobre o Grupo</h1>
                     <!--<div class="fa fa-cutlery fa-2x"></div>-->
                     <p class="desc-text">Este é um grupo estudantil da disciplina IAE - Introdução a Atividade Empresarial.</p>
-                    <p class="desc-text">Este projeto tem como objetivo elaborar uma gestão de serviços de monitoramento e acompanhamento para a SAÚDE.</p>
+                    <p class="desc-text">Este projeto tem como objetivo elaborar uma gestão de serviços de monitoramento, acompanhamento e integração da informações da SAÚDE do paciente.</p>
                     
                 </div>
                 <div class="col-md-6">
                     <div class="img-section">
-                       <img src="images/doisrios.jpg" width="250" height="220">
-                       <img src="images/caverna.jpg" width="250" height="220">
+                       <img src="images/desenhocoracao.png" width="250" height="220">
+                       <img src="images/frequenciacardiaca.png" width="250" height="220">
                        <div class="img-section-space"></div>
-                       <img src="images/viaduto1.jpg"  width="250" height="220">
-                       <img src="images/caverna.jpg"  width="250" height="220">
+                       <img src="images/desenhocasalcorrendo.png"  width="250" height="220">
+                       <img src="images/stethoscope1.png"  width="250" height="220">
                    </div>
                 </div>
             </div>
@@ -200,7 +199,7 @@
 
         <section id ="pricing" class="description_content">
              <div class="pricing background_content">
-                <h1 class="shadow"><span>Principais</span> Trabalhos</h1>
+                <h1 class="shadow"><span>Atendemos</span></h1>
              </div>
             <div class="text-content container">
                 <div class="container">
@@ -214,20 +213,20 @@
                                 <li class="filter" data-filter="dinner">Dinner</li>
                             </ul>  @end #filter-list -->
                             <ul id="portfolio">
-                                <li class="item breakfast mix_all" style="display: inline-block;  opacity: 1;"><img src="images/montanha1.jpg" alt="Food">
-                                    <h5 class="white">Trabalho 1</h5>
+                                <li class="item breakfast mix_all" style="display: inline-block;  opacity: 1;"><img src="images/stethoscope1.png" alt="Food">
+                                    <h5 class="white">Hospitais</h5>
                                 </li>
 
-                                <li class="item dinner special mix_all" style="display: inline-block;  opacity: 1;"><img src="images/montanha1.jpg" alt="Food">
-                                    <h5 class="white">Trabalho 2</h5>
+                                <li class="item dinner special mix_all" style="display: inline-block;  opacity: 1;"><img src="images/coracaofrequencia.png" alt="Food">
+                                    <h5 class="white">Clínicas e consultórios</h5>
                                 </li>
-                                <li class="item dinner breakfast mix_all" style="display: inline-block;  opacity: 1;"><img src="images/montanha1.jpg" alt="Food">
-                                    <h5 class="white">Trabalho 3</h5>
+                                <li class="item dinner breakfast mix_all" style="display: inline-block;  opacity: 1;"><img src="images/desenhocasalcorrendo.png" alt="Food">
+                                    <h5 class="white">Profissionais da Saúde</h5>
                                 </li>
-                                <li class="item special mix_all" style="display: inline-block;  opacity: 1;"><img src="images/montanha1.jpg" alt="Food">
-                                    <h5 class="white">Trabalho 4</h5>
+                                <li class="item special mix_all" style="display: inline-block;  opacity: 1;"><img src="images/familia.jpg" alt="Food">
+                                    <h5 class="white">Familiar ou individual</h5>
                                 </li>
-                                <li class="item dinner mix_all" style="display: inline-block;  opacity: 1;"><img src="images/rio1.jpg" alt="Food">
+                                <!--<li class="item dinner mix_all" style="display: inline-block;  opacity: 1;"><img src="images/rio1.jpg" alt="Food">
                                     <h5 class="white">Trabalho 5</h5>
                                 </li>
                                 <li class="item special mix_all" style="display: inline-block;  opacity: 1;"><img src="images/rio1.jpg" alt="Food">
@@ -238,7 +237,7 @@
                                 </li>
                                 <li class="item desert breakfast mix_all" style="display: inline-block;  opacity: 1;"><img src="images/rio1.jpg" alt="Food">
                                     <h5 class="white">Trabalho 8</h5>
-                                </li>
+                                </li>-->
                             </ul><!-- @end #portfolio -->
                         </div><!-- @end #w -->
                     </div>
@@ -275,20 +274,20 @@
 
         <section id="bread" class=" description_content">
             <div  class="bread background_content">
-                <h1 class="shadow"><span>Acesse </span>e Conheça Novos Serviços.</h1>
+                <h1 class="shadow"><span>Conheça </span>Nossos Serviços.</h1>
             </div>
             <div class="text-content container">
                 <div class="col-md-6">
                     <h1>Serviços de qualidade</h1>
                     <!--<div class="icon-bread fa-2x"></div>-->
-                    <p class="desc-text">- Serviços de qualidade 01.</p>
-                    <p class="desc-text">- Serviços de qualidade 02.</p> 
-                    <p class="desc-text">- Serviços de qualidade 03.</p> 
-                    <p class="desc-text">- Serviços de qualidade 04.</p> 
+                    <p class="desc-text">- Historico de exames clínicos e receituários</p>
+                    <p class="desc-text">- Serviços de monitoramento dos sinais vitáis</p> 
+                    <p class="desc-text">- Conteúdo educativo</p> 
+                    <!--<p class="desc-text">- Serviços de qualidade 04.</p>--> 
                 </div>
                 <div class="col-md-6">
-                    <img src="images/castelo2.jpg" width="260" alt="Bread">
-                    <img src="images/castelo4.jpg" width="260" alt="Bread">
+                    <img src="images/maefilhopraia.jpg" width="260" alt="Bread">
+                    <img src="images/doisirmaos.jpg" width="260" alt="Bread">
                 </div>
             </div>
         </section>
@@ -299,16 +298,16 @@
 
         <section id="featuredru" class="description_content">
             <div  class="featuredru background_content">
-                <h1 class="shadow"><span>Dicas </span>e Novidades</h1>
+                <h1 class="shadow"><span>Notícias </span> atuais</h1>
             </div>
             <div class="text-content container">
                 <div class="col-md-6">
                     <h1>Fique por dentro:</h1>
                     <!--<div class="icon-hotdog fa-2x"></div>-->
                     <p class="desc-text">
-					<p style="text-align: center;"><a style="font-size: 12.16px;" target="_blank" href="http://www.ru.unb.br/images/Cardapio/Cardpio%20Julho%202017.xlsx%20-%2002%20SEMANA%20julho%20.pdf"><span style="font-family: arial, helvetica, sans-serif; font-size: 18pt; line-height: 1.3em;"><span style="font-size: 18pt;"><span style="color: #0000ff; font-family: arial, helvetica, sans-serif; font-size: 18pt; line-height: 1.3em;"><span style="color: #0000ff; font-size: 18pt;">Feira - 03/07/2017 a 09/07/2017</span></span></span></span></a></p>
-					<p style="text-align: center;"><a target="_blank" href="http://www.ru.unb.br/images/Cardapio/Cardpio%20Julho%202017.xlsx%20-%2003%20SEMANA%20julho%20.pdf"><span style="font-family: arial, helvetica, sans-serif; font-size: 18pt; line-height: 1.3em;"><span style="font-size: 18pt;"><span style="color: #0000ff; font-family: arial, helvetica, sans-serif; font-size: 18pt; line-height: 1.3em;"><span style="color: #0000ff; font-size: 18pt;">Evento - 10/07/2017 a 16/07/2017</span></span></span></span></a></p>
-					<p style="text-align: center;"><a target="_blank" href="http://www.ru.unb.br/images/Cardapio/Cardpio%20Julho%202017.xlsx%20-%2004%20SEMANA%20julho%20.pdf"><span style="font-family: arial, helvetica, sans-serif; font-size: 18pt; line-height: 1.3em;"><span style="font-size: 18pt;"><span style="color: #0000ff; font-family: arial, helvetica, sans-serif; font-size: 18pt; line-height: 1.3em;"><span style="color: #0000ff; font-size: 18pt;">Exposição - 17/07/2017 a 23/07/2017</span></span></span></span></a></p>
+					<p style="text-align: center;"><a style="font-size: 12.16px;" target="_blank" href="http://www.saude.gov.br/"><span style="font-family: arial, helvetica, sans-serif; font-size: 18pt; line-height: 1.3em;"><span style="font-size: 18pt;"><span style="color: #0000ff; font-family: arial, helvetica, sans-serif; font-size: 18pt; line-height: 1.3em;"><span style="color: #0000ff; font-size: 18pt;">saude.gov.br</span></span></span></span></a></p>
+					<p style="text-align: center;"><a target="_blank" href="http://www.saude.df.gov.br/index.php"><span style="font-family: arial, helvetica, sans-serif; font-size: 18pt; line-height: 1.3em;"><span style="font-size: 18pt;"><span style="color: #0000ff; font-family: arial, helvetica, sans-serif; font-size: 18pt; line-height: 1.3em;"><span style="color: #0000ff; font-size: 18pt;">saude.df.gov.br/</span></span></span></span></a></p>
+					<p style="text-align: center;"><a target="_blank" href="http://www2.planalto.gov.br/"><span style="font-family: arial, helvetica, sans-serif; font-size: 18pt; line-height: 1.3em;"><span style="font-size: 18pt;"><span style="color: #0000ff; font-family: arial, helvetica, sans-serif; font-size: 18pt; line-height: 1.3em;"><span style="color: #0000ff; font-size: 18pt;">planalto.gov.br/</span></span></span></span></a></p>
 					
 					</p>
                 </div>
@@ -331,7 +330,7 @@
                                     </div>
                                 </div>
                                 <div class="item">
-                                    <img src="images/agenda1.jpg" alt="...">
+                                    <img src="images/treino1.jpg" alt="...">
                                     <div class="carousel-caption">
 
                                     </div>
@@ -353,7 +352,7 @@
 
         <section  id="reservation"  class="description_content">
             <div class="featured background_content">
-                <h1 class="shadow">Deixe sua Sugestão!</h1>
+                <h1 class="shadow">Pratique atividade física.</h1>
             </div>
             <div class="text-content container">
                 <div class="inner contact">
@@ -388,7 +387,7 @@
 														<!-- Bottom Submit -->
 														<div class="relative fullwidth col-xs-12">
 															<!-- Send Button -->
-															<button type="submit" id="submit" name="submit" class="form-btn">Enviar Mensagem</button>
+															<button type="submit" id="submit" name="submit" class="form-btn">Enviar Sugestão</button>
 														</div><!-- End Bottom Submit -->
 														<!-- Clear -->
 														<div class="clear"></div>
@@ -402,12 +401,12 @@
                                     <div class="col-lg-4 col-md-6 col-xs-12">
                                         <!-- Message -->
                                         <div class="right-text">
-                                            <h2>Principais Dicas e Sugestões Recebidas</h2><hr>
-                                            <p>1. Gostei do atendimento ...</p>
-                                            <p>2. Bom projeto, vou tentar implantar.</p>
-                                            <p>3. A sugestão foi bem apropriada.</p>
-                                            <p>4. A proposta estava dentro do desejado.</p>
-                                            <p>5. A minha resposta demorou, mas foi de acordo.</p>
+                                            <h2>Benefícios da atividade física</h2><hr>
+                                            <p>1. Prevenção de doenças.</p>
+                                            <p>2. Perda de peso.</p>
+                                            <p>3. Melhora o sono.</p>
+                                            <p>4. Aumento da capacidade cardio-respiratória.</p>
+                                            <p>5. Faz bem para o corpo e mente.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -435,7 +434,7 @@
                 </div>
                 <div class="col-md-4">
                     <span class="social_heading">Contate-nos</span>
-                    <span class="social_info"><a class="color_animation">sendocriado@aets.com</a></span>
+                    <span class="social_info"><a class="color_animation">contato@saudesempres.com.br</a></span>
                 </div>
             </div>
         </section>
@@ -487,7 +486,11 @@
 
         <footer class="sub_footer">
             <div class="container">
-                <div class="col-md-4"><p class="sub-footer-text text-center">&copy; Versão <a href="#">1.0</a></p></div>
+                <div class="col-md-4"><p class="sub-footer-text text-center">&copy; Versão <a href="#">1.0 </a> <a href="#"> - Acessos</a>
+<!-- Início Código Contador Grátis -->
+ <script type="text/javascript" src="http://www.contadorgratis.pog.com.br/contador.php?page=201711051509892684&estilo=style_0006&tp=0"></script>
+<!-- Final Código Contador Grátis-->
+                </p></div>
                 <div class="col-md-4"><p class="sub-footer-text text-center">Voltar para o <a href="#top">TOPO</a></p>
                 </div>
                 <div class="col-md-4"><p class="sub-footer-text text-center">Trabalho sobre <a href="#" target="_blank">Empreendedorismo</a></p></div>

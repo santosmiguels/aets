@@ -9,7 +9,7 @@
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
     <!--<title>{{ config('app.name', 'Laravel') }}</title>-->
-    <title>A&TS - Acompanhamento & Tecnologia da Saúde.</title>
+    <title>Saúde Sempre - Acompanhamento & Tecnologia da Saúde.</title>
 
     <!-- Styles -->
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
@@ -32,8 +32,8 @@
                     <!--<a class="navbar-brand" href="{{ url('/') }}">
                         {{ config('app.name', 'Laravel') }}
                     </a>-->
-                    <a class="navbar-brand" href="{{ url('/admin') }}" >A&TS</a>
-                    <img src="images/stethoscope.png" width="53" height="45">
+                    <a class="navbar-brand" href="{{ url('/admin') }}" >Saúde Sempre</a>
+                    <img src="../images/stethoscope.png" width="53" height="45">
                 </div>
 
                 <div class="collapse navbar-collapse" id="app-navbar-collapse">
