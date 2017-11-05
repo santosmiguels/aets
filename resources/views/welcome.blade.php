@@ -336,10 +336,11 @@
                                     </div>
                                 </div>
                                 <div class="item">
-                                    <img src="images/doutor1.JPG" alt="...">
+                                    <img src="images/doutor1.jpg" alt="...">
                                     <div class="carousel-caption">
 
                                     </div>
+                                </div>
                                 </div>
                             </div>
                         </div>
