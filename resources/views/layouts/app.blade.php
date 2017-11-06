@@ -35,7 +35,7 @@
                     <!-- Branding Image -->
                     <a class="navbar-brand" href="{{ url('/admin') }}" >Saúde Sempre</a>
 			<!--<img src="../images/unbsnackslogo.png" href="{{ url('/') }}" width="53" height="45">-->
-            <img src="../images/stethoscope.png" width="53" height="45">
+            <img src="../images/logo.jpg" width="53" height="45">
                         <!--{{ config('app.name', 'Laravel') }}href="{{ url('/') }}-->
                     
                 </div>
