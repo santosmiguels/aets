@@ -188,7 +188,7 @@
                        <img src="images/frequenciacardiaca.png" width="250" height="220">
                        <div class="img-section-space"></div>
                        <img src="images/atomo.png"  width="250" height="220">
-                       <img src="images/cerebro2.png"  width="250" height="220">
+                       <img src="images/logo.jpg"  width="250" height="220">
                    </div>
                 </div>
             </div>
